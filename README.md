@@ -2,26 +2,26 @@
 > TDD 미션 스터디      
 
 ## LICENSE
-This is released under the MIT license. See [LICENSE]() for details.
+This is released under the MIT license. See [LICENSE](./LICENSE) for details.
 
 ## 📖 미션  
-* [자동차 경주 게임]()
-    * [전체 목차]()  
-    * [1. 학습 테스트]()    
-    * [2. 문자열 계산기]()    
-    * [3. 자동차 미션 1단계]()   
-    * [4. 자동차 미션 2단계(우승자)]()  
-    * [5. 자동차 미션 3단계(리팩터링)]() 
+* [자동차 경주 게임](./mission)
+    * [전체 목차](./mission/racingcar)  
+    * [1. 학습 테스트](./mission/racingcar/01%20step.md)    
+    * [2. 문자열 계산기](./mission/racingcar/02%20step.md)    
+    * [3. 자동차 미션 1단계](./mission/racingcar/03%20step.md)   
+    * [4. 자동차 미션 2단계(우승자)](./mission/racingcar/04%20step.md)  
+    * [5. 자동차 미션 3단계(리팩터링)](./mission/racingcar/05%20step.md) 
 
 **기타 팁** 
 * [코드 리뷰 방법](https://github.com/next-step/nextstep-docs/tree/master/codereview)    
-* [git 커밋 컨벤션]()
-* [객체지향 생활 체조 원칙]()   
-* [자바 코드 컨벤션]()  
-* [자바 문법]()    
-* [JUnit 사용법]()  
-* [클린 코드]()    
-* [협력하는 객체들의 공동체]()    
+* [git 커밋 컨벤션](./reference/gitCommitConvention.md)
+* [객체지향 생활 체조 원칙](./reference/객체지향생활체조원칙.md)   
+* [자바 코드 컨벤션](./reference/javaCodeConvention.md)  
+* [자바 문법](./reference/java)    
+* [JUnit 사용법](./reference/JUnit)  
+* [클린 코드](./reference/cleancode)    
+* [협력하는 객체들의 공동체](./reference/objectOrientedProgramming.md)    
 * [IntelliJ에 git bash 연결하기](https://toma0912.tistory.com/92)   
 
   
